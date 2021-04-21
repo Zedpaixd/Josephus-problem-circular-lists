@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619025091 source:d:\codeblocks\projects\ads2\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+
